@@ -5,7 +5,7 @@
 - 📫 My email is lingzhen.zhu@foxmail.com
 
 
-***I Look forward to working with you!***
+***I look forward to working with you!***
 
 <!---
 Lingzhen718/Lingzhen718 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
