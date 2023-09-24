@@ -3,6 +3,7 @@
 - 🌱 I’m currently a data science graduate student at UVA
 - 💞️ I'm trying to brush up on my programming skills, especially Python.
 - 📫 My email is lingzhen.zhu@foxmail.com
+- 🌏 See more information on my website! https://lingzhen718.github.io/
 
 
 ***I look forward to working with you!***
