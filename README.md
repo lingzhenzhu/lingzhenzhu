@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Lingzhen Zhu
 - 👀 I’m interested in Data Analytics, Machine Learning and Operations Optimization
 - 🌱 I’m currently a data science graduate student at UVA
-- 💞️ I'm trying to brush up on my programming skills, especially Python.
-- 📫 My email is lingzhen.zhu@foxmail.com
+- 📫 My email is lingzhen.zhu@virginia.edu
 - 🌏 See more information on my website! https://lingzhen718.github.io/
 
 
