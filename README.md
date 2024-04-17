@@ -2,7 +2,7 @@
 - 👀 I’m interested in advancing Machine Learning and Operations Research techniques to revolutionize fields including Health Care, ESG, and Urban Planning
 - 🌱 I’m currently a Data Science PhD student at the University of Virginia, USA
 - 📫 My email is lingzhen.zhu@virginia.edu
-- 🌏 See more information on my website! https://lingzhen718.github.io/
+- 🌏 See more information on my website! https://lingzhenzhu.github.io/
 
 
 ***I look forward to working with you!***
